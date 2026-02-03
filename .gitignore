@@ -20,3 +20,7 @@ dist-newstyle
 # scripts/*.json
 
 *.db
+
+src-old
+package.json
+request.http
